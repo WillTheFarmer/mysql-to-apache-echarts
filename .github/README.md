@@ -1,5 +1,5 @@
 # Apache Log Management and Visualization Application
-### Express handles Querying & Apache ECharts handles Visualization of MySQL Schema
+### Express handles Data Querying & ECharts handles Data Visualization of MySQL Schema
 
 MySQL2ApacheECharts consists of [Express.js](https://github.com/expressjs/express)
 web application frameworks with Drill Down Capability & 
