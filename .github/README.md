@@ -7,4 +7,4 @@ web application frameworks with Drill Down Capability &
 [Apache ECharts](https://github.com/apache/echarts) frameworks for Log Data Visualization in charts, reports & data analysis 
 interfaces of MySQL Schema ***apache_logs*** created by [ApacheLogs2MySQL](https://github.com/willthefarmer/apache-logs-to-mysql).
 
-Development is in early stages with more repository updates released soon.
+Development is in progress and repository initial version will be released soon.
