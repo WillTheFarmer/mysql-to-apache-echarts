@@ -7,6 +7,6 @@ MySQL2ApacheECharts is a Web interface that consists of [Express.js](https://git
 [Apache ECharts](https://github.com/apache/echarts) for Log Data Visualization in charts, reports & data analysis 
 interfaces for MySQL or MariaDB database 
 created by [ApacheLogs2MySQL](https://github.com/willthefarmer/apache-logs-to-mysql) 
-or [NGINX2MySQL](https://github.com/willthefarmer/nginx-logs-to-mysql).
+or [NGINXLogs2MySQL](https://github.com/willthefarmer/nginx-logs-to-mysql).
 
 Development is back in progress and repository initial version will be released soon.
