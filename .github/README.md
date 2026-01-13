@@ -1,4 +1,4 @@
-## Apache Log Management and Visualization Application
+## Http Log Management and Visualization Application
 ![Apache Codes Bar Chart](./assets/apache_codes_bar_chart.png)
 ### Express handles Data Querying & ECharts handles Data Visualization of MySQL Schema
 
