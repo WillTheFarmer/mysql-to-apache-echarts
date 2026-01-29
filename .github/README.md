@@ -6,6 +6,4 @@ MySQL2ApacheECharts is a Web interface that consists of [Express.js](https://git
  with [W2UI](https://github.com/vitmalina/w2ui) drill-down data grids & 
 [Apache ECharts](https://github.com/apache/echarts) for Log Data Visualization in charts, reports & data analysis 
 interfaces for MySQL or MariaDB database 
-created by [mysql-schema-http-logs](https://github.com/willthefarmer/mysql-schema-http-logs) and populated by [httpLogs2MySQL](https://github.com/willthefarmer/http-logs-to-mysql) that started as a Python script to LOAD DATA as the database design took shape. 
-
-A re-designed verion of httpLogs2MySQL just released and this version is a real Python application!
+created by [mysql-schema-http-logs](https://github.com/willthefarmer/mysql-schema-http-logs) and populated by [httpLogs2MySQL](https://github.com/willthefarmer/http-logs-to-mysql) that started as a Python script to LOAD DATA as the database design took shape.
